@@ -1,0 +1,6 @@
+classic
+wrd
+false
+true
+./Scripts
+false

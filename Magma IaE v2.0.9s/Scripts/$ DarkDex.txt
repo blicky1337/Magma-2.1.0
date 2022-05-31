@@ -1,0 +1,22 @@
+--[[
+
+
+ ######                       ######                
+ #     #   ##   #####  #    # #     # ###### #    # 
+ #     #  #  #  #    # #   #  #     # #       #  #  
+ #     # #    # #    # ####   #     # #####    ##   
+ #     # ###### #####  #  #   #     # #        ##   
+ #     # #    # #   #  #   #  #     # #       #  #  
+ ######  #    # #    # #    # ######  ###### #    # 
+                                                                                           
+                                        
+ DarkDex created by Yarios
+ For Script Developers to view workspace objects
+ 
+ Requires AnemoAPI
+
+]]--
+
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/fPP8bZ8Z"))()
+
+

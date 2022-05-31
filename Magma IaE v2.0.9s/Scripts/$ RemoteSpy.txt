@@ -1,0 +1,21 @@
+--[[
+
+
+    ____                       __      _____            
+   / __ \___  ____ ___  ____  / /____ / ___/____  __  __
+  / /_/ / _ \/ __ `__ \/ __ \/ __/ _ \\__ \/ __ \/ / / /
+ / _, _/  __/ / / / / / /_/ / /_/  __/__/ / /_/ / /_/ / 
+/_/ |_|\___/_/ /_/ /_/\____/\__/\___/____/ .___/\__, /  
+                                        /_/    /____/   
+                                                                                                                                              
+                                        
+ RemoteSpy Created by Vaeb
+ For developers to look for backdoors!
+ 
+ Requires AnemoAPI
+
+]]--
+
+loadstring(game:HttpGet(("https://pastebin.com/raw/yJzq5ceV"), true))()
+
+
